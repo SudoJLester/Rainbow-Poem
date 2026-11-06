@@ -1,5 +1,6 @@
 Pink
 Orange
 Blue
+Green
 Red
 Colors of the Rainbow
